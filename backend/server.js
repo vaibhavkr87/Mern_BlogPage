@@ -12,7 +12,7 @@ const app = express();   // ✅ create app FIRST
 // ----- Middleware -----
 app.use(cors({
   origin: ["http://localhost:5173",
-  "https://mern-blog-page-3ocqudmzz-vaibhavkr87097gmailcoms-projects.vercel.app"],
+  "https://mern-blog-page-tau.vercel.app/"],
   credentials: true
 }));
 
