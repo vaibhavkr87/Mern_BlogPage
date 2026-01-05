@@ -30,9 +30,9 @@ export default function Footer() {
               href="https://www.linkedin.com/in/vaibhavkr87"
               target="_blank"
               className="px-4 py-2 rounded-xl 
-              bg-white dark:bg-gray-800 
+              bg-black dark:bg-gray-800 
               border dark:border-gray-700
-              hover:bg-indigo-100 dark:hover:bg-gray-700 
+              hover:bg-indigo-300 dark:hover:bg-gray-700 
               transition"
             >
               💼 LinkedIn
@@ -42,9 +42,9 @@ export default function Footer() {
               href="https://github.com/vaibhavkr87"
               target="_blank"
               className="px-4 py-2 rounded-xl 
-              bg-white dark:bg-gray-800 
+              bg-black dark:bg-gray-800 
               border dark:border-gray-700
-              hover:bg-indigo-100 dark:hover:bg-gray-700 
+              hover:bg-indigo-300 dark:hover:bg-gray-700 
               transition"
             >
               💻 GitHub
@@ -54,9 +54,9 @@ export default function Footer() {
               href="https://instagram.com/_vaibhavkr03_/"
               target="_blank"
               className="px-4 py-2 rounded-xl 
-              bg-white dark:bg-gray-800 
+              bg-black dark:bg-gray-800 
               border dark:border-gray-700
-              hover:bg-indigo-100 dark:hover:bg-gray-700 
+              hover:bg-indigo-300 dark:hover:bg-gray-700 
               transition"
             >
               📸 Instagram

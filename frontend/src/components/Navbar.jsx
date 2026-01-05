@@ -125,7 +125,7 @@ export default function Navbar({ auth, onLoginClick, onLogout, dark, setDark }) 
         {/* MOBILE BUTTON */}
         <button
           onClick={() => setMenuOpen(!menuOpen)}
-          className="md:hidden text-3xl"
+          className="md:hidden text-3xl bg-black dark:bg-white/40 p-2 rounded-lg focus:outline-none"
         >
           {menuOpen ? "✖" : "☰"}
         </button>
